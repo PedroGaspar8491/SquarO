@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//sadasdasdasd//
 int main()
 {
     int nums[3][3];
